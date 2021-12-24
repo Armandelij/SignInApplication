@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\bin\Debug\Mydatabase.mdf
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\bin\Debug\Mydatabase_log.ldf
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\bin\Debug\ArmandeFinalProject.exe.config
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\bin\Debug\ArmandeFinalProject.exe
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\bin\Debug\ArmandeFinalProject.pdb
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.Form1.resources
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.Menuform.resources
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.Properties.Resources.resources
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.exe
+C:\Users\Owner\source\repos\ArmandeFinalProject\ArmandeFinalProject\obj\Debug\ArmandeFinalProject.pdb
