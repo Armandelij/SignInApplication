@@ -19,3 +19,5 @@ functionality.
  Must use Generics
  Must be well commented and follow good programming style and naming conventions
  Must build without errors and execute with no major errors or functional issue
+
+![LoginApplication](https://user-images.githubusercontent.com/64448202/147584376-a410ac2c-c9ea-4c54-85eb-d564c3e74848.gif)
